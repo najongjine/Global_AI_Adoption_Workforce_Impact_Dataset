@@ -1,16 +1,10 @@
 Global AI Adoption & Workforce Impact Dataset
 https://www.kaggle.com/datasets/mohankrishnathalla/global-ai-adoption-and-workforce-impact-dataset
 
-**"전 세계 기업들이 AI(인공지능)를 어떻게 도입하고 있고, 그게 실제 업무와 경영 성과에 어떤 영향을 주는지"*
+
 
 * ai_company_adoption.csv -
-About this file
-
-Suggest Edits
-ai_company_adoption.csv
-Main dataset containing company-level observations across multiple years and quarters.
-
-Each row represents a company survey observation capturing AI adoption behavior, workforce outcomes, operational changes, and governance practices.
+**"전 세계 기업들이 AI(인공지능)를 어떻게 도입하고 있고, 그게 실제 업무와 경영 성과에 어떤 영향을 주는지"*
 
 Rows: 150,000
 Columns: 43
